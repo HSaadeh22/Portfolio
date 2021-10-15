@@ -60,10 +60,7 @@ body {
     background:grey;
 }
 
-/* ::-webkit-scrollbar-thumb:hover {
-    background: white;
-} */
-
-::-webkit-scrollbar-thumb::selection {
+::-webkit-scrollbar-thumb:hover {
     background: white;
 }
+
